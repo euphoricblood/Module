@@ -42,7 +42,7 @@ local Themes = {
 		TextFieldAccent = Color3.fromRGB(124,37,255),
 	},
 	Dark = {
-		MainFrame = Color3.fromRGB(30,30,30),
+		MainFrame = Color3.fromRGB(36,36,36),
 		Minimise = Color3.fromRGB(72,0,255),
 		MinimiseAccent = Color3.fromRGB(147,70,100),
 		Maximise = Color3.fromRGB(25,255,0),
@@ -56,7 +56,7 @@ local Themes = {
 		Banner = Color3.fromRGB(55,55,55),
 		BannerAccent = Color3.fromRGB(255,255,255),
 		Content = Color3.fromRGB(85,85,85),
-		Button = Color3.fromRGB(36,36,36),
+		Button = Color3.fromRGB(30,30,30),
 		ButtonAccent = Color3.fromRGB(255,255,255),
 		ChipSet = Color3.fromRGB(235,235,235),
 		ChipSetAccent = Color3.fromRGB(85,85,85),
